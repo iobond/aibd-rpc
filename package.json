@@ -1,7 +1,7 @@
 {
   "name": "aibd-rpc",
   "description": "AIB Client Library to connect to AIB Core via RPC",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "author": {
     "name": "AIB Community",
     "email": "dev@aib.one"
